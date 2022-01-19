@@ -8,7 +8,8 @@
 </head>
 <body>
     
-    <h1>Você Escolheu: {{ $job }} </h1>
+    <h1>Você Escolheu: {{ $job }}  
+    <a href="https://aventurasnahistoria.uol.com.br/tags/guerreiros"> Veja sua Historia</a> </h1>
 
 </body>
 </html>
